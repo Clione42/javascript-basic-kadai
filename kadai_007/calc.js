@@ -1,8 +1,8 @@
 // 変数の代入
-let num = 12;
+let num = 14;
 
 // 変数numの値を出力する（確認用）
-console.log(num);
+// console.log(num);
  
 if (num % 3 == 0 && num % 5 == 0) {
   console.log('3と5の倍数です');
